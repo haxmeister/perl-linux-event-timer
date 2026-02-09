@@ -1,5 +1,5 @@
 \B\.git\b
-\B\.github\b/.*/?\.swp$
+\B\.github\b
 \Bblib\b
 \BMakefile$
 \BMakefile\.old$

@@ -1,14 +1,3 @@
-.github/workflows/ci.yml
-blib/arch/.exists
-blib/arch/auto/Linux/Event/Timer/.exists
-blib/bin/.exists
-blib/lib/auto/Linux/Event/Timer/.exists
-blib/lib/Linux/Event/.exists
-blib/lib/Linux/Event/Timer.pm
-blib/man1/.exists
-blib/man3/.exists
-blib/man3/Linux::Event::Timer.3
-blib/script/.exists
 Changes
 lib/Linux/Event/Timer.pm
 LICENSE
